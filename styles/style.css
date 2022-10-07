@@ -39,6 +39,7 @@ nav {
     background: whitesmoke;
     z-index: 1;
     border-bottom: 1px solid black;
+    transition: top 0.5s;
 }
 
 nav ul{
